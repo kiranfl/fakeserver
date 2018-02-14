@@ -1,0 +1,16 @@
+{
+  "docs": [
+    {
+      "file_name": "Consent document",
+      "file_url": "",
+      "mode": "sign/signed/view",
+      "sign_time": "timestamp"          //If already signed
+    },
+    {
+      "file_name": "Hippa Authorization Document",
+      "file_url": "",
+      "mode": "sign/signed/view",
+      "sign_time": "timestamp"         //If already signed
+    }
+  ]
+}
