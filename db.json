@@ -2,15 +2,21 @@
   "docs": [
     {
       "file_name": "Consent document",
-      "file_url": "",
-      "mode": "sign/signed/view",
-      "sign_time": "timestamp"          
+      "file_url": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf",
+      "mode": "sign",
+      "sign_time": ""          
     },
     {
       "file_name": "Hippa Authorization Document",
-      "file_url": "",
-      "mode": "sign/signed/view",
-      "sign_time": "timestamp"     
+      "file_url": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf",
+      "mode": "view",
+      "sign_time": ""     
+    },
+    {
+      "file_name": "Consent",
+      "file_url": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf",
+      "mode": "signed",
+      "sign_time": "1518778897"          
     }
   ]
 }
