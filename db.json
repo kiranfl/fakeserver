@@ -4,20 +4,7 @@
       "preSignedUrl": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf",
       "status": "requestedsignature",
       "participantSignedTime": 1518778897          
-    },
-     {
-      "docId":"1235",
-      "docName": "Consent",
-      "preSignedUrl": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf",
-      "status": "requestedsignature",
-      "participantSignedTime": 1518778897          
-    }, {
-      "docId":"1235",
-      "docName": "Consent",
-      "preSignedUrl": "http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf",
-      "status": "signed",
-      "participantSignedTime": 1518778897          
     }
-  ]
+]
 
 
